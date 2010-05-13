@@ -51,7 +51,7 @@ class Gamertag(object):
         }
 
 if __name__ == '__main__':
-    gt1 = Gamertag('SuperC0d3m0nkey')
+    gt1 = Gamertag('Festive Turkey')
     gt1.update()
 
     print """
