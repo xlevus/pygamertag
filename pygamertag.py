@@ -26,20 +26,28 @@ class Gamertag(object):
         self.gamertag = gamertag
 
     def update(self):
+        self.changed = []
         url = "%s?%s" % (DATA_SOURCE, urlencode({'GamerTag':self.gamertag}))
-        req = urllib2.urlopen(url)
+        #req = urllib2.urlopen(url)
 
         tree = ElementTree()
-        tree.parse(req)
+        tree.parse('cache.xml')
 
         valid = tree.find("PresenceInfo/Valid")
         if valid.text != 'true':
             raise InvalidGamertag
 
-        self._info = [tree.find("PresenceInfo/Info").text, tree.find("PresenceInfo/Info2").text]
-        self._online = tree.find("PresenceInfo/Online").text
-        self._status_text = tree.find("PresenceInfo/StatusText").text
-        self._title = tree.find("PresenceInfo/Title").text
+        self._change_attr('info', [tree.find("PresenceInfo/Info").text, tree.find("PresenceInfo/Info2").text])
+        self._change_attr("online", tree.find("PresenceInfo/Online").text)
+        self._change_attr("status_text", tree.find("PresenceInfo/StatusText").text)
+        self._change_attr("title", tree.find("PresenceInfo/Title").text)
+
+    def _change_attr(self, attribute, new_value):
+        attribute = '_%s' % attribute
+        old_value = getattr(self, attribute, None)
+        if old_value != new_value:
+            self.changed.append(attribute)
+            setattr(self, attribute, new_value)
 
     def as_dict(self):
         return {
@@ -51,7 +59,7 @@ class Gamertag(object):
         }
 
 if __name__ == '__main__':
-    gt1 = Gamertag('Festive Turkey')
+    gt1 = Gamertag('xlevus')
     gt1.update()
 
     print """

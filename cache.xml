@@ -1,0 +1,182 @@
+<?xml version="1.0"?>
+<XboxInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <AccountStatus>Gold</AccountStatus>
+  <PresenceInfo>
+    <Valid>true</Valid>
+    <Info>Last seen 19 hours ago playing Battlefield: Bad Co. 2</Info>
+    <Info2 />
+    <LastSeen>2010-10-10T09:11:29+00:00</LastSeen>
+    <Online>false</Online>
+    <StatusText>Offline</StatusText>
+    <Title>Battlefield: Bad Co. 2</Title>
+  </PresenceInfo>
+  <State>Valid</State>
+  <Gamertag>xlevus</Gamertag>
+  <ProfileUrl>http://live.xbox.com/member/xlevus</ProfileUrl>
+  <TileUrl>http://avatar.xboxlive.com/avatar/xlevus/avatarpic-l.png</TileUrl>
+  <Country>New Zealand</Country>
+  <Reputation>58.74493</Reputation>
+  <Bio />
+  <Location />
+  <ReputationImageUrl>http://live.xbox.com/xweb/lib/images/gc_repstars_external_12.gif</ReputationImageUrl>
+  <GamerScore>1300</GamerScore>
+  <Zone>Recreation</Zone>
+  <RecentGames>
+    <XboxUserGameInfo>
+      <Game>
+        <Name>Battlefield: Bad Co. 2</Name>
+        <TotalAchievements>62</TotalAchievements>
+        <TotalGamerScore>1180</TotalGamerScore>
+        <Image32Url>http://tiles.xbox.com/tiles/0P/zU/1Gdsb2JgbA9ECgQNGwEfVi5bL2ljb24vMC84MDAwIAABAAAAAPv7-M8=.jpg</Image32Url>
+        <Image64Url>http://tiles.xbox.com/tiles/v1/Lg/02dsb2JhbC9ECgQNGwEfVi5bL2ljb24vMC84MDAwAAAAAAAAAPzPUqA=.jpg</Image64Url>
+      </Game>
+      <LastPlayed>2010-10-10T08:06:30+00:00</LastPlayed>
+      <Achievements>13</Achievements>
+      <GamerScore>295</GamerScore>
+      <DetailsURL>http://live.xbox.com/en-US/profile/Achievements/ViewAchievementDetails.aspx?tid=%09%5d%3adh)k%3f%09%0e&amp;compareTo=xlevus</DetailsURL>
+    </XboxUserGameInfo>
+    <XboxUserGameInfo>
+      <Game>
+        <Name>Toy Soldiers</Name>
+        <TotalAchievements>18</TotalAchievements>
+        <TotalGamerScore>300</TotalGamerScore>
+        <Image32Url>http://tiles.xbox.com/tiles/Xf/ny/1mdsb2JgbA9ECgUAGwEfV1YmL2ljb24vMC84MDAwIAABAAAAAPnd+UI=.jpg</Image32Url>
+        <Image64Url>http://tiles.xbox.com/tiles/Ml/fG/0Wdsb2JhbC9ECgUAGwEfV1YmL2ljb24vMC84MDAwAAAAAAAAAP7pVy0=.jpg</Image64Url>
+      </Game>
+      <LastPlayed>2010-10-09T10:02:33+00:00</LastPlayed>
+      <Achievements>6</Achievements>
+      <GamerScore>90</GamerScore>
+      <DetailsURL>http://live.xbox.com/en-US/profile/Achievements/ViewAchievementDetails.aspx?tid=%09%5d%3bhe)j2%7d%0b&amp;compareTo=xlevus</DetailsURL>
+    </XboxUserGameInfo>
+    <XboxUserGameInfo>
+      <Game>
+        <Name>Sonic Adventure</Name>
+        <TotalAchievements>15</TotalAchievements>
+        <TotalGamerScore>250</TotalGamerScore>
+        <Image32Url>http://tiles.xbox.com/tiles/v-/gS/02dsb2JgbA9ECgUAGwEfL11WL2ljb24vMC84MDAwIAABAAAAAPw9+KA=.jpg</Image32Url>
+        <Image64Url>http://tiles.xbox.com/tiles/0F/Ym/1Gdsb2JhbC9ECgUAGwEfL11WL2ljb24vMC84MDAwAAAAAAAAAPsJVs8=.jpg</Image64Url>
+      </Game>
+      <LastPlayed>2010-09-16T08:11:34+00:00</LastPlayed>
+      <Achievements>6</Achievements>
+      <GamerScore>60</GamerScore>
+      <DetailsURL>http://live.xbox.com/en-US/profile/Achievements/ViewAchievementDetails.aspx?tid=%09%5d%3bhe)jJ%0ep&amp;compareTo=xlevus</DetailsURL>
+    </XboxUserGameInfo>
+    <XboxUserGameInfo>
+      <Game>
+        <Name>Dragon Age: Origins</Name>
+        <TotalAchievements>76</TotalAchievements>
+        <TotalGamerScore>1750</TotalGamerScore>
+        <Image32Url>http://tiles.xbox.com/tiles/fu/yG/1Wdsb2JgbA9ECgQNGwEfVixTL2ljb24vMC84MDAwIAABAAAAAPqp7GE=.jpg</Image32Url>
+        <Image64Url>http://tiles.xbox.com/tiles/EU/Ky/0mdsb2JhbC9ECgQNGwEfVixTL2ljb24vMC84MDAwAAAAAAAAAP2dQg4=.jpg</Image64Url>
+      </Game>
+      <LastPlayed>2010-08-08T03:23:29+00:00</LastPlayed>
+      <Achievements>6</Achievements>
+      <GamerScore>70</GamerScore>
+      <DetailsURL>http://live.xbox.com/en-US/profile/Achievements/ViewAchievementDetails.aspx?tid=%09%5d%3adh)k%3f%0b%04&amp;compareTo=xlevus</DetailsURL>
+    </XboxUserGameInfo>
+    <XboxUserGameInfo>
+      <Game>
+        <Name>Aqua</Name>
+        <TotalAchievements>12</TotalAchievements>
+        <TotalGamerScore>200</TotalGamerScore>
+        <Image32Url>http://tiles.xbox.com/tiles/Au/km/1mdsb2JgbA9ECgUAGwEfVyxWL2ljb24vMC84MDAwIAABAAAAAPkJ6R0=.jpg</Image32Url>
+        <Image64Url>http://tiles.xbox.com/tiles/bU/cS/0Wdsb2JhbC9ECgUAGwEfVyxWL2ljb24vMC84MDAwAAAAAAAAAP49R3I=.jpg</Image64Url>
+      </Game>
+      <LastPlayed>2010-08-04T09:15:12+00:00</LastPlayed>
+      <Achievements>1</Achievements>
+      <GamerScore>10</GamerScore>
+      <DetailsURL>http://live.xbox.com/en-US/profile/Achievements/ViewAchievementDetails.aspx?tid=%09%5d%3bhe)j2%07%01&amp;compareTo=xlevus</DetailsURL>
+    </XboxUserGameInfo>
+    <XboxUserGameInfo>
+      <Game>
+        <Name>Magic: The Gathering</Name>
+        <TotalAchievements>18</TotalAchievements>
+        <TotalGamerScore>300</TotalGamerScore>
+        <Image32Url>http://tiles.xbox.com/tiles/p5/mr/1Wdsb2JgbA9ECgUAGwEfVllTL2ljb24vMC84MDAwIAABAAAAAPqEmbg=.jpg</Image32Url>
+        <Image64Url>http://tiles.xbox.com/tiles/yD/ef/0mdsb2JhbC9ECgUAGwEfVllTL2ljb24vMC84MDAwAAAAAAAAAP2wN9c=.jpg</Image64Url>
+      </Game>
+      <LastPlayed>2010-08-02T08:46:19+00:00</LastPlayed>
+      <Achievements>4</Achievements>
+      <GamerScore>60</GamerScore>
+      <DetailsURL>http://live.xbox.com/en-US/profile/Achievements/ViewAchievementDetails.aspx?tid=%09%5d%3bhe)j3sq&amp;compareTo=xlevus</DetailsURL>
+    </XboxUserGameInfo>
+    <XboxUserGameInfo>
+      <Game>
+        <Name>Trials HD</Name>
+        <TotalAchievements>15</TotalAchievements>
+        <TotalGamerScore>250</TotalGamerScore>
+        <Image32Url>http://tiles.xbox.com/tiles/lC/pB/0mdsb2JgbA9ECgUAGwEfV1oiL2ljb24vMC84MDAwIAABAAAAAP1uKos=.jpg</Image32Url>
+        <Image64Url>http://tiles.xbox.com/tiles/+4/R1/1Wdsb2JhbC9ECgUAGwEfV1oiL2ljb24vMC84MDAwAAAAAAAAAPpahOQ=.jpg</Image64Url>
+      </Game>
+      <LastPlayed>2010-07-12T07:02:52+00:00</LastPlayed>
+      <Achievements>3</Achievements>
+      <GamerScore>30</GamerScore>
+      <DetailsURL>http://live.xbox.com/en-US/profile/Achievements/ViewAchievementDetails.aspx?tid=%09%5d%3bhe)j2q%03&amp;compareTo=xlevus</DetailsURL>
+    </XboxUserGameInfo>
+    <XboxUserGameInfo>
+      <Game>
+        <Name>SplinterCellConviction</Name>
+        <TotalAchievements>54</TotalAchievements>
+        <TotalGamerScore>1250</TotalGamerScore>
+        <Image32Url>http://tiles.xbox.com/tiles/1T/W1/12dsb2JgbA9ECgUNGgMfVl8hL2ljb24vMC84MDAwIAABAAAAAPiaNco=.jpg</Image32Url>
+        <Image64Url>http://tiles.xbox.com/tiles/up/uB/0Gdsb2JhbC9ECgUNGgMfVl8hL2ljb24vMC84MDAwAAAAAAAAAP+um6U=.jpg</Image64Url>
+      </Game>
+      <LastPlayed>2010-07-03T10:52:13+00:00</LastPlayed>
+      <Achievements>13</Achievements>
+      <GamerScore>230</GamerScore>
+      <DetailsURL>http://live.xbox.com/en-US/profile/Achievements/ViewAchievementDetails.aspx?tid=%09%5d%3bei*h%3ey%06&amp;compareTo=xlevus</DetailsURL>
+    </XboxUserGameInfo>
+    <XboxUserGameInfo>
+      <Game>
+        <Name>Puzzle Quest 2</Name>
+        <TotalAchievements>12</TotalAchievements>
+        <TotalGamerScore>200</TotalGamerScore>
+        <Image32Url>http://tiles.xbox.com/tiles/E1/Vq/0Gdsb2JgbA9ECgUAGwEfL1wgL2ljb24vMC84MDAwIAABAAAAAP9FVQw=.jpg</Image32Url>
+        <Image64Url>http://tiles.xbox.com/tiles/fP/te/12dsb2JhbC9ECgUAGwEfL1wgL2ljb24vMC84MDAwAAAAAAAAAPhx+2M=.jpg</Image64Url>
+      </Game>
+      <LastPlayed>2010-07-03T08:54:54+00:00</LastPlayed>
+      <Achievements>2</Achievements>
+      <GamerScore>10</GamerScore>
+      <DetailsURL>http://live.xbox.com/en-US/profile/Achievements/ViewAchievementDetails.aspx?tid=%09%5d%3bhe)jJ%0f%07&amp;compareTo=xlevus</DetailsURL>
+    </XboxUserGameInfo>
+    <XboxUserGameInfo>
+      <Game>
+        <Name>Skate 3</Name>
+        <TotalAchievements>68</TotalAchievements>
+        <TotalGamerScore>1500</TotalGamerScore>
+        <Image32Url>http://tiles.xbox.com/tiles/jR/uT/1mdsb2JgbA9ECgQNGwEfVipVL2ljb24vMC84MDAwIAABAAAAAPm8G5I=.jpg</Image32Url>
+        <Image64Url>http://tiles.xbox.com/tiles/4r/Wn/0Wdsb2JhbC9ECgQNGwEfVipVL2ljb24vMC84MDAwAAAAAAAAAP6Itf0=.jpg</Image64Url>
+      </Game>
+      <LastPlayed>2010-06-27T02:13:03+00:00</LastPlayed>
+      <Achievements>8</Achievements>
+      <GamerScore>110</GamerScore>
+      <DetailsURL>http://live.xbox.com/en-US/profile/Achievements/ViewAchievementDetails.aspx?tid=%09%5d%3adh)k%3f%0d%04&amp;compareTo=xlevus</DetailsURL>
+    </XboxUserGameInfo>
+    <XboxUserGameInfo>
+      <Game>
+        <Name>Red Dead Redemption</Name>
+        <TotalAchievements>83</TotalAchievements>
+        <TotalGamerScore>1300</TotalGamerScore>
+        <Image32Url>http://tiles.xbox.com/tiles/iZ/Vb/02dsb2JgbA9ECgUMGgQfVl0hL2ljb24vMC84MDAwIAABAAAAAPx0lZY=.jpg</Image32Url>
+        <Image64Url>http://tiles.xbox.com/tiles/5j/tv/1Gdsb2JhbC9ECgUMGgQfVl0hL2ljb24vMC84MDAwAAAAAAAAAPtAO-k=.jpg</Image64Url>
+      </Game>
+      <LastPlayed>2010-06-06T08:49:39+00:00</LastPlayed>
+      <Achievements>16</Achievements>
+      <GamerScore>335</GamerScore>
+      <DetailsURL>http://live.xbox.com/en-US/profile/Achievements/ViewAchievementDetails.aspx?tid=%09%5d%3bdh-o%3fz%03&amp;compareTo=xlevus</DetailsURL>
+    </XboxUserGameInfo>
+    <XboxUserGameInfo>
+      <Game>
+        <Name>TC's SC Double Agent</Name>
+        <TotalAchievements>38</TotalAchievements>
+        <TotalGamerScore>1000</TotalGamerScore>
+        <Image32Url>http://tiles.xbox.com/tiles/5-/Ys/1Wdsb2JgbA9ECgUNGgMfWStUL2ljb24vMC84MDAwIAABAAAAAPoD9vg=.jpg</Image32Url>
+        <Image64Url>http://tiles.xbox.com/tiles/iF/gY/0mdsb2JhbC9ECgUNGgMfWStUL2ljb24vMC84MDAwAAAAAAAAAP03WJc=.jpg</Image64Url>
+      </Game>
+      <LastPlayed>2010-05-14T05:41:50+00:00</LastPlayed>
+      <Achievements>0</Achievements>
+      <GamerScore>0</GamerScore>
+      <DetailsURL>http://live.xbox.com/en-US/profile/Achievements/ViewAchievementDetails.aspx?tid=%09%5d%3bei*h1%02%07&amp;compareTo=xlevus</DetailsURL>
+    </XboxUserGameInfo>
+  </RecentGames>
+</XboxInfo>
